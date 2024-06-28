@@ -101,6 +101,15 @@ div.contact{
     font-size: 26px;
 }
 
+div.contact a{
+    text-decoration: none;
+    color: white;
+    border: 2px solid aqua;
+    border-radius: 50px;
+    background-color: grey;
+    font-size: 20;
+}
+
 div.projects{
     padding: 50px 0px;
     display: grid;
