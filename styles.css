@@ -49,3 +49,9 @@ a:hover{
     color: aqua;
     background-color: black;
 }
+
+a:active{
+    color: aqua;
+    background-color: black;  
+}
+
