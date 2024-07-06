@@ -46,12 +46,22 @@ a{
 }
 
 a:hover{
-    color: aqua;
-    background-color: black;
+    color: blue;
+    /* background-color: black; */
 }
 
 a:active{
-    color: aqua;
+    color: blue;
     background-color: black;  
 }
 
+.social-links{
+    display: flex;
+    justify-content: center;
+    max-width: 30%;
+    padding: 50px;
+    font-size: 30px;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+}
