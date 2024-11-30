@@ -65,3 +65,9 @@ a{
     color: #333;
     transition: color 1s;
 }
+
+.nav-link{
+    text-decoration: none;
+    color: #fff;
+    transition: color 1s;
+}
